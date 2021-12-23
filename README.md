@@ -469,7 +469,7 @@ A curated list of blogs posting threat intel.
 * PaloAlto Networks Unit 42
     * Description: Unit 42 is the global threat intelligence team at Palo Alto Networks and a recognized authority on cyberthreats, frequently sought out by enterprises and government agencies around the world.
     * Web: https://unit42.paloaltonetworks.com/
-    * Feed: http://researchcenter.paloaltonetworks.com/unit42/feed/
+    * Feed: https://unit42.paloaltonetworks.com/feed/
     * Subscribe: https://app.obstracts.com/
 * PhishLabs
     * Description: PhishLabs provides Digital Risk Protection through curated threat intelligence and complete mitigation for web, social, and email threats.
